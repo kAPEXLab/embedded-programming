@@ -1,6 +1,6 @@
 ![](https://kapexlab.github.io/logos_and_headers/Email-Apex%20Lab-KPIT-APRIL2026.jpg)
 
-# Embedded Programming
+# [Embedded Programming](https://kapexlab.github.io/embedded-programming/)
 
 ## Module 1: Introduction to Embedded Systems
 
