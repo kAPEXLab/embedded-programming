@@ -23,4 +23,4 @@
 * Video Playlist - [STM32 Programming Course Using CubeMx (STM32F446RE)](https://www.youtube.com/playlist?list=PL_zvrXFdKgZrLsAkLo_1qPeW7cPOCyEiK)
 
 # Hands on Exercises
-[Click here for Step by Step Guidelines](https://github.com/kAPEXLab/embedded-system-withSTM32.git)
+[STM32 - Step by Step Guidelines](https://github.com/kAPEXLab/embedded-system-withSTM32.git)
