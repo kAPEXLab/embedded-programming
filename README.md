@@ -53,4 +53,4 @@
 ---
 # 📌 Hands on Exercises
 * [STM32 - Step by Step Guidelines](https://github.com/kAPEXLab/embedded-system-withSTM32.git)
-* [FreeRTOS with STM32 Step by Step guidelines](https://github.com/kAPEXLab/rtos-embedded-systems-training.git)
+* [FreeRTOS with STM32 Step by Step guidelines](https://kapexlab.github.io/rtos-embedded-systems-training/)
