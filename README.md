@@ -46,11 +46,12 @@
 
 ## 📌 Module 5: Real Time Operating System
 
+* Presentation - [Introduction to OS and RTOS](ppt/Introduction-to-OS-and-RTOS.html)
 * Blog - [What is a real-time operating system](https://www.ibm.com/think/topics/real-time-operating-system)
 * Video Playlist - [Introduction to RTOS](https://youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz&si=mk47hYqpPcjT1CYG)
 * Blog - [FreeRTOS Tutorial on STM32](https://controllerstech.com/introduction-to-free-rtos-in-stm32/)
 
 ---
 # 📌 Hands on Exercises
-* [STM32 - Step by Step Guidelines](https://github.com/kAPEXLab/embedded-system-withSTM32.git)
+* [STM32 - Step by Step Guidelines](https://kapexlab.github.io/embedded-system-withSTM32/)
 * [FreeRTOS with STM32 Step by Step guidelines](https://kapexlab.github.io/rtos-embedded-systems-training/)
